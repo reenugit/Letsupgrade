@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 20 17:54:49 2021
-
-@author: U35220
-"""
-
 num = int(input("Enter the number"))
 fact = 1
 if num == 1:
